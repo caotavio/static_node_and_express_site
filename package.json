@@ -1,0 +1,19 @@
+{
+  "name": "static_node_and_express_site",
+  "version": "1.0.0",
+  "description": "A site do hold portfolio pieces using express and node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caotavio/static-node-and-express-site.git"
+  },
+  "author": "caotavio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caotavio/static-node-and-express-site/issues"
+  },
+  "homepage": "https://github.com/caotavio/static-node-and-express-site#readme"
+}
