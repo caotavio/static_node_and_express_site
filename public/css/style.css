@@ -1,6 +1,11 @@
+/*Changed the background color*/
+body {
+  background-color: rgb(241, 238, 238);
+}
 
+/*Changed font to Work Sans*/
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Work Sans', Sans-serif;
   text-align: justify;
 }
 
@@ -41,12 +46,15 @@ h1,h2,h3,h4,h5,p{
   color: rgb(73, 71, 71);
 }
 
+/*Added transition to change background color on hover with ease-out*/
 .button{
-  background-color: #333;
+  background-color: rgb(66, 66, 66);
+  transition: background-color 0.5s ease-out;
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: rgb(14, 3, 112);
+  transition-duration: 2s;
 }
 
 a{
