@@ -10,3 +10,10 @@ There are a few dependencies needed to run this website, and they can be
 attained running "npm install".
 
 To use the website run "npm start".
+
+Changes made in the CSS:
+-Added transitions of background color to the buttons on hover.
+-Changed background color to a light grey.
+-Changed main font to "Work Sans"
+-Added a special error class to the main error for a more focused main message
+to the user, changing the color o the status code and the status message.
