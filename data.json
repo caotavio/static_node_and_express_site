@@ -1,0 +1,58 @@
+{
+    "projects": [
+            {
+                "id": "0",
+                "project_name": "Random Quote Generator",
+                "description": "A project that uses vanilla JavaScript to randomly display quotes on the screen.",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://caotavio.github.io/Random-Quote-Generator",
+                "github_link": "https://github.com/caotavio/Random-Quote-Generator",
+                "image_urls": ["/images/Random-quote-1.png", "/images/Random-quote-2.png", "/images/Random-quote-3.png"]
+            },
+            {
+                "id": "1",
+                "project_name": "List Pagination and Filtering",
+                "description": "This project is data filtering and pagination from a list of students in a database.",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://caotavio.github.io/List-Pagination-and-Filtering",
+                "github_link": "https://github.com/caotavio/List-Pagination-and-Filtering",
+                "image_urls": ["/images/pagination-filtering-1.png", "/images/pagination-filtering-2.png", "/images/pagination-filtering-3.png"]
+            },
+            {
+                "id": "2",
+                "project_name": "Interactive Form",
+                "description": "This project shows an HTML form that updates according to user input.",
+                "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+                "live_link": "https://caotavio.github.io/Interactive-Form",
+                "github_link": "https://github.com/caotavio/Interactive-Form",
+                "image_urls": ["/images/interactive-form-1.png", "/images/interactive-form-2.png", "/images/interactive-form-3.png"]
+            },
+            {
+                "id": "3",
+                "project_name": "Phrase Hunter",
+                "description": "A Phrase Hunter game that is built using Object-oriented JasvaScript.",
+                "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+                "live_link": "https://caotavio.github.io/Game-Phrase-Hunter",
+                "github_link": "https://github.com/caotavio/Game-Phrase-Hunter",
+                "image_urls": ["/images/phrase-hunter-1.png", "/images/phrase-hunter-2.png", "/images/phrase-hunter-3.png"]
+            },
+            {
+                "id": "4",
+                "project_name": "Public API Requests",
+                "description": "This project is a webpage that uses fetch API to display employees information from a database and also showcase the usage of modal windows.",
+                "technologies": ["HTML", "CSS", "JavaScript", "AJAX"],
+                "live_link": "https://caotavio.github.io/Public-API-Requests",
+                "github_link": "https://github.com/caotavio/Public-API-Requests",
+                "image_urls": ["/images/public-api-1.png", "/images/public-api-2.png", "/images/public-api-3.png"]
+            },
+            {
+                "id": "5",
+                "project_name": "Four In a Row",
+                "description": "This project is a 2-player game of four-in-a-row that was built using Object-oriented JasvaScript.",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://caotavio.github.io/Game-Four-in-a-row",
+                "github_link": "https://github.com/caotavio/Game-Four-in-a-row",
+                "image_urls": ["/images/four-row-1.png", "/images/four-row-2.png", "/images/four-row-3.png"]
+            }    
+        ]
+}

@@ -1,0 +1,18 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+        h1 Oh wow... seems like something is not right!
+        br
+        p.lead.text-error
+          |#{status} - #{message}
+        p.lead.text-light
+          |If you are a web dev... you might be interested in this... but that is a BIG "maybe"...
+          |But if you are into it... go for it =)
+          br
+          br
+          |#{stack}
