@@ -1,6 +1,7 @@
 const express = require("express");
 const data = require("./data.json");
 const { projects } = data; //ES6 for projects = data.projects
+const port = process.env.PORT || 3000;
 
 const app = express(); //central part of the app - from here set set up routes and middleware
 
@@ -39,6 +40,6 @@ app.use((err, req, res, next) => {
 });
 
 //sets up a server listening on port 3000
-app.listen(3000, () => {
-    console.log("This app is runing smooth on localhost:3000");
+app.listen(port, () => {
+    console.log(`This app is runing smooth on localhost:${port}`);
 });
