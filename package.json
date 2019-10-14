@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/caotavio/static-node-and-express-site.git"
   },
+  "engines": {
+    "node": "12.4.0"
+  },
   "author": "caotavio",
   "license": "MIT",
   "bugs": {
