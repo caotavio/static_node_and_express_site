@@ -53,6 +53,15 @@
                 "live_link": "https://caotavio.github.io/Game-Four-in-a-row",
                 "github_link": "https://github.com/caotavio/Game-Four-in-a-row",
                 "image_urls": ["/images/four-row-1.png", "/images/four-row-2.png", "/images/four-row-3.png"]
+            },
+            {
+                "id": "6",
+                "project_name": "Library Manager",
+                "description": "This is a book database manager that uses Express.js and Node.js. It performs all CRUD operation and also uses Sequelize for the SQLite connection and PUG for templates.",
+                "technologies": ["PUG", "CSS", "Express", "Node.js", "Sequelize", "SQLite"],
+                "live_link": "https://otavio-sql-library-manager.herokuapp.com/",
+                "github_link": "https://github.com/caotavio/SQL-library-manager",
+                "image_urls": ["/images/library-manager-1.png", "/images/library-manager-2.png", "/images/library-manager-3.png"]
             }    
         ]
 }

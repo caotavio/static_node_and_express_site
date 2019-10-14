@@ -1,7 +1,7 @@
 const express = require("express");
 const data = require("./data.json");
 const { projects } = data; //ES6 for projects = data.projects
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3000; //this sets the port to 3000 if the port is not fixed by the host (eg heroku locally is set to 5000)
 
 const app = express(); //central part of the app - from here set set up routes and middleware
 
