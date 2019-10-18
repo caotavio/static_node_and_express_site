@@ -24,7 +24,7 @@ h1,h2,h3,h4,h5,p{
   }
 
   p{
-    font-size: 17px;
+    font-size: 19px;
     color: rgb(73, 71, 71);
     font-weight: 600;
   }
@@ -160,7 +160,7 @@ a:hover{
 }
 
 .portfolio-project li{
-  font-size: 13px;
+  font-size: 17px;
   color: #444;
 }
 
