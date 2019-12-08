@@ -2,15 +2,24 @@
     "projects": [
             {
                 "id": "0",
-                "project_name": "Full Stack App",
+                "project_name": "i-Hungry Angular Fullstack App",
+                "description": "An i-Food type web application which you can choose between restaurants, their menu and reviews about them and add items to a cart. It features a login that uses JSON Web Token that allows the user to enter a form to complete the order and rate if at the end.",
+                "technologies": ["Angular", "TypeScript", "Node.js", "HTML", "CSS"],
+                "live_link": "https://i-hungry.herokuapp.com",
+                "github_link": "https://github.com/caotavio/Otavio-Restaurant",
+                "image_urls": ["/images/i-hungry-1.png", "/images/i-hungry-2.png", "/images/i-hungry-3.png"]
+            },
+            {
+                "id": "1",
+                "project_name": "React Full Stack App",
                 "description": "This project shows the consumption of a REST API that provides a way for users to administer a school database containing information about courses, permiting the user to create, read, update and delete courses. Users will need a log-in and password to perform those tasks.",
                 "technologies": ["React", "CSS", "Node.js", "PostgreSQL", "Express", "Sequelize"],
-                "live_link": "https://otavio-fullstack-app.herokuapp.com/",
+                "live_link": "https://otavio-fullstack-app.herokuapp.com",
                 "github_link": "https://github.com/caotavio/fullstack-app",
                 "image_urls": ["/images/fullstack-app-1.png", "/images/fullstack-app-2.png", "/images/fullstack-app-3.png"]
             },
             {
-                "id": "1",
+                "id": "2",
                 "project_name": "Scoreboard",
                 "description": "A Scoreboard made with React that features a stopwatch.",
                 "technologies": ["React", "CSS", "Node", "Express"],
@@ -19,7 +28,7 @@
                 "image_urls": ["/images/scoreboard-1.png", "/images/scoreboard-2.png", "/images/scoreboard-3.png"]
             },
             {
-                "id": "2",
+                "id": "3",
                 "project_name": "Four In a Row",
                 "description": "This project is a 2-player game of four-in-a-row that was built using Object-oriented JasvaScript.",
                 "technologies": ["HTML", "CSS", "JavaScript"],
@@ -28,32 +37,23 @@
                 "image_urls": ["/images/four-row-1.png", "/images/four-row-2.png", "/images/four-row-3.png"]
             },
             {
-                "id": "3",
+                "id": "4",
                 "project_name": "Library Manager",
                 "description": "This is a book database manager that uses Express.js and Node.js. It performs all CRUD operation and also uses Sequelize for the SQLite connection and PUG for templates.",
                 "technologies": ["PUG", "CSS", "Express", "Node.js", "Sequelize", "SQLite"],
-                "live_link": "https://otavio-sql-library-manager.herokuapp.com/",
+                "live_link": "https://otavio-sql-library-manager.herokuapp.com",
                 "github_link": "https://github.com/caotavio/SQL-library-manager",
                 "image_urls": ["/images/library-manager-1.png", "/images/library-manager-2.png", "/images/library-manager-3.png"]
             },
             {
-                "id": "4",
+                "id": "5",
                 "project_name": "Phrase Hunter",
                 "description": "A Phrase Hunter game that is built using Object-oriented JasvaScript.",
                 "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
                 "live_link": "https://caotavio.github.io/Game-Phrase-Hunter",
                 "github_link": "https://github.com/caotavio/Game-Phrase-Hunter",
                 "image_urls": ["/images/phrase-hunter-1.png", "/images/phrase-hunter-2.png", "/images/phrase-hunter-3.png"]
-            },
-            {
-                "id": "5",
-                "project_name": "Interactive Form",
-                "description": "This project shows an HTML form that updates according to user input.",
-                "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-                "live_link": "https://caotavio.github.io/Interactive-Form",
-                "github_link": "https://github.com/caotavio/Interactive-Form",
-                "image_urls": ["/images/interactive-form-1.png", "/images/interactive-form-2.png", "/images/interactive-form-3.png"]
-            },
+            },            
             {
                 "id": "6",
                 "project_name": "Public API Requests",
