@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/caotavio/static-node-and-express-site#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "nodemon": "^1.18.11",
     "pug": "^2.0.3"
   }
